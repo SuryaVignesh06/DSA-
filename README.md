@@ -6,4 +6,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SuryaVignesh06/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SuryaVignesh06/DSA-/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/SuryaVignesh06/DSA-/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
