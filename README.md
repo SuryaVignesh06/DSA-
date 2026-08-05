@@ -10,4 +10,28 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SuryaVignesh06/DSA-/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
