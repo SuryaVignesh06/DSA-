@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryaVignesh06/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryaVignesh06/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
