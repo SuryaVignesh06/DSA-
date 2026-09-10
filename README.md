@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SuryaVignesh06/DSA-/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/SuryaVignesh06/DSA-/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryaVignesh06/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SuryaVignesh06/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/SuryaVignesh06/DSA-/tree/master/0217-contains-duplicate) |
@@ -34,6 +35,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SuryaVignesh06/DSA-/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/SuryaVignesh06/DSA-/tree/master/0217-contains-duplicate) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SuryaVignesh06/DSA-/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SuryaVignesh06/DSA-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
