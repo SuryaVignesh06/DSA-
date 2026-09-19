@@ -10,9 +10,11 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SuryaVignesh06/DSA-/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/SuryaVignesh06/DSA-/tree/master/0049-group-anagrams) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SuryaVignesh06/DSA-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SuryaVignesh06/DSA-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SuryaVignesh06/DSA-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SuryaVignesh06/DSA-/tree/master/0056-merge-intervals) |
@@ -38,6 +40,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SuryaVignesh06/DSA-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SuryaVignesh06/DSA-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SuryaVignesh06/DSA-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SuryaVignesh06/DSA-/tree/master/0217-contains-duplicate) |
@@ -57,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SuryaVignesh06/DSA-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SuryaVignesh06/DSA-/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
