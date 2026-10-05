@@ -11,6 +11,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SuryaVignesh06/DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/SuryaVignesh06/DSA-/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/SuryaVignesh06/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/SuryaVignesh06/DSA-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SuryaVignesh06/DSA-/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/SuryaVignesh06/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +84,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SuryaVignesh06/DSA-/tree/master/0021-merge-two-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SuryaVignesh06/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SuryaVignesh06/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
