@@ -11,6 +11,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SuryaVignesh06/DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/SuryaVignesh06/DSA-/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/SuryaVignesh06/DSA-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuryaVignesh06/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
@@ -45,6 +46,7 @@
 | [0056-merge-intervals](https://github.com/SuryaVignesh06/DSA-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SuryaVignesh06/DSA-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SuryaVignesh06/DSA-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SuryaVignesh06/DSA-/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -63,6 +65,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/SuryaVignesh06/DSA-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SuryaVignesh06/DSA-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SuryaVignesh06/DSA-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuryaVignesh06/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
