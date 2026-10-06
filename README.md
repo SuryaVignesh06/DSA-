@@ -24,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/SuryaVignesh06/DSA-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryaVignesh06/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SuryaVignesh06/DSA-/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/SuryaVignesh06/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuryaVignesh06/DSA-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SuryaVignesh06/DSA-/tree/master/0238-product-of-array-except-self) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -46,6 +47,7 @@
 | [0049-group-anagrams](https://github.com/SuryaVignesh06/DSA-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SuryaVignesh06/DSA-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SuryaVignesh06/DSA-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SuryaVignesh06/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuryaVignesh06/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SuryaVignesh06/DSA-/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SuryaVignesh06/DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -66,6 +68,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SuryaVignesh06/DSA-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SuryaVignesh06/DSA-/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/SuryaVignesh06/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuryaVignesh06/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SuryaVignesh06/DSA-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuryaVignesh06/DSA-/tree/master/0387-first-unique-character-in-a-string) |
@@ -73,6 +76,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SuryaVignesh06/DSA-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SuryaVignesh06/DSA-/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -96,5 +100,10 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SuryaVignesh06/DSA-/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuryaVignesh06/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuryaVignesh06/DSA-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
