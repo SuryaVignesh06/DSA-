@@ -1,14 +1,14 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int maxSoFar = nums[0];
-        int currentSum = nums[0];
+        int max = nums[0];
+        int sum = nums[0];
 
-        for (int i = 1; i < nums.length; i++) {
-            // Either extend the previous subarray or start fresh at nums[i]
-            currentSum = Math.max(nums[i], currentSum + nums[i]);
-            maxSoFar = Math.max(maxSoFar, currentSum);
+        for(int i = 1;i<nums.length;i++){
+            sum = Math.max(nums[i],sum + nums[i]);
+            max = Math.max(max,sum);
         }
-
-        return maxSoFar;
+        return max;
     }
+    
+
 }
