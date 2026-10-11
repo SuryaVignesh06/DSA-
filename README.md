@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SuryaVignesh06/DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SuryaVignesh06/DSA-/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/SuryaVignesh06/DSA-/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0055-jump-game](https://github.com/SuryaVignesh06/DSA-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryaVignesh06/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SuryaVignesh06/DSA-/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/SuryaVignesh06/DSA-/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SuryaVignesh06/DSA-/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/SuryaVignesh06/DSA-/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -112,4 +115,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SuryaVignesh06/DSA-/tree/master/0036-valid-sudoku) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SuryaVignesh06/DSA-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
