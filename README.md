@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SuryaVignesh06/DSA-/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SuryaVignesh06/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/SuryaVignesh06/DSA-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SuryaVignesh06/DSA-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SuryaVignesh06/DSA-/tree/master/0053-maximum-subarray) |
@@ -88,6 +89,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SuryaVignesh06/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/SuryaVignesh06/DSA-/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
